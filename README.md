@@ -1,4 +1,4 @@
-# Project Name
+# Hotel Management System
 
 ## Description
 Brief description of what this project does.
